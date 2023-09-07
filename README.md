@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on [Chess](https://nixx-chess.onrender.com)
 
-- 💬 Ask me about **React, sass**
+- 💬 Ask me about **React, Sass**
 
 - 📫 How to reach me **thirumalaigunal7@gmail.com**
 
