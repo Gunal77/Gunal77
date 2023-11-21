@@ -1,4 +1,4 @@
-<h1 align="center">Hi there! I am Thirumalai! You might also know me as Gunal I've been coding for over 1 years now. As a Full Stack developer I've worked both with startups and large corporations to help build & scale their companies. Along the journey I realised my passion existed in helping others excel and pursue their dreams as upcoming developers. You’ll get hands-on experience and learn the skills that are required to succeed in the real-world in this community.</h1>
+<h3 align="center">Hi there! I am Thirumalai! You might also know me as Gunal I've been coding for over 1 years now. As a Full Stack developer I've worked both with startups and large corporations to help build & scale their companies. Along the journey I realised my passion existed in helping others excel and pursue their dreams as upcoming developers. You’ll get hands-on experience and learn the skills that are required to succeed in the real-world in this community.</h3>
 
 <p align="left"> <a href="https://twitter.com/gunal30356784" target="blank"><img src="https://img.shields.io/twitter/follow/@gunal30356784?logo=twitter&style=for-the-badge" alt="@gunal30356784" /></a> </p>
 
