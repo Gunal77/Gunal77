@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/gunal30356784" target="blank"><img src="https://img.shields.io/twitter/follow/@gunal30356784?logo=twitter&style=for-the-badge" alt="@gunal30356784" /></a> </p>
 
-- 🔭 I’m currently working on **Portfolio**
+- 🔭 I’m currently working on **BE computer science**
 
 - 🌱 I’m currently learning **React**
 
