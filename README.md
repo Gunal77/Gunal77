@@ -4,7 +4,7 @@
 [kaggle]: https://www.kaggle.com/nivas7
 
 
-`Hi, I'm Srinivas.`
+`Hi, I'm Thirumalai.`
 
 <!-- <img align="right" alt="profile" width="500px" height="500px" ob  src="https://art.pixilart.com/c08557cf585b.gif"  /> -->
 
