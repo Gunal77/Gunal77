@@ -11,7 +11,7 @@
 - 🔭 I’m currently studying *BE ~ Computer Science*
 - 🌱 I’m currently learning ,`JAVA` and `WebDevelopment`
 - ⚡ 2024 goals - improve my study culture and learn time management (among other things)
-- 🗒️ here is [my blog](https://Nivas7.github.io) and [my resume](https://Nivas7.github.io/resume/index.html)
+- 🗒️ here is [my blog](#) and [my resume](https://resume-thirumalai.vercel.app/)
 
 ### `social links:`
 [<img align="left" alt="kaggle" width="22px" src="https://www.iconfinder.com/icons/4519136/download/svg/4096" />][kaggle]
