@@ -21,6 +21,6 @@ languages: javascript, java
 familiar Web dev: React, Nodejs, Tailwind, Supabase
   - other: Restapi
   
-OS: Mint cinnomon;)
+OS: Mint cinnomon:)
 editors: neovim
 ```
