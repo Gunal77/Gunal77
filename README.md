@@ -13,23 +13,19 @@
 - ⚡ 2024 goals - improve my study culture and learn time management (among other things)
 - 🗒️ here is [my blog](#) and [my resume](https://resume-thirumalai.vercel.app/)
 
-### `social links:`
-[<img align="left" alt="kaggle" width="22px" src="https://www.iconfinder.com/icons/4519136/download/svg/4096" />][kaggle]
-[<img align="left" alt="linkedin" width="22px" src="https://www.iconfinder.com/icons/4202085/download/png/64" />][linkedin]
-[<img align="left" alt="email" width="22px" src="https://www.iconfinder.com/icons/4202011/download/svg/4096" />][gmail]
-<br>
+
 
 ### `languages and tools:`
 
 ```yaml
 languages: C, javascript, java
 familiar Web dev: React, Next, Backend, React Query
-  - other: flask, fastapi, gnu makefile
+  - other: Restapi
   
 OS: Mint cinnomon;)
 editors: Vim, neovim
 ```
-
+```
 <p align="center">
   <img alt="github stats" src="https://github-readme-stats.vercel.app/api?username=Gunal77&show_icons=true&include_all_commits=true&hide_border=true&theme=dracula" />
 </p>
