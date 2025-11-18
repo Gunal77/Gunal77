@@ -17,10 +17,10 @@
 ### `languages and tools:`
 
 ```yaml
-languages: C, javascript, java
-familiar Web dev: React, Next, Backend, React Query
+languages: javascript, java
+familiar Web dev: React, Nodejs, Tailwind, Supabase
   - other: Restapi
   
 OS: Mint cinnomon;)
-editors: Vim, neovim
+editors: neovim
 ```
