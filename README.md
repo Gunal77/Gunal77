@@ -25,11 +25,3 @@ familiar Web dev: React, Next, Backend, React Query
 OS: Mint cinnomon;)
 editors: Vim, neovim
 ```
-```
-<p align="center">
-  <img alt="github stats" src="https://github-readme-stats.vercel.app/api?username=Gunal77&show_icons=true&include_all_commits=true&hide_border=true&theme=dracula" />
-</p>
-
-<p align="center">
-          <img alt="github lang stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gunal77&layout=compact&theme=dracula&hide_border=true"/>
-</p> 
