@@ -22,5 +22,5 @@ familiar Web dev: React, Nodejs, Tailwind, Supabase
   - other: Restapi
   
 OS: Mint cinnomon:)
-editors: neovim
+editors: vscode
 ```
