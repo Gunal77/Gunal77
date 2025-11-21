@@ -1,7 +1,6 @@
-[twitter]: https://www.twitter.com/Srinivas124
-[linkedin]: https://www.linkedin.com/in/srinivas-r-0a7b6b225/
-[gmail]: mailto:nivasniyas24@gmail.com
-[kaggle]: https://www.kaggle.com/ThirumalaiS
+[linkedin]: http://www.linkedin.com/in/thirumalai-s-998335244
+[gmail]: mailto:techiethirumalai@gmail.com
+[leetcode]: https://leetcode.com/u/thirumalaigunal7/
 
 
 `Hi, I'm Thirumalai.`
