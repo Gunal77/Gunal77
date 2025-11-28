@@ -17,7 +17,7 @@
 
 ```yaml
 languages: javascript, java
-familiar Web dev: React, Nodejs, Tailwind, Supabase
+familiar Web dev: Html, Css, React, Nodejs, Tailwind, Sass, Supabase, MongoDB
   - other: Restapi
   
 OS: Mint cinnomon:)
